@@ -49,7 +49,7 @@ To start using this repository, first, clone it to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/AlphaTech-Coding-Interview-Repo.git
+git clone https://github.com/alphatechitco/Algorithm-Arsenal-by-AlphaTech.git
 cd AlphaTech-Coding-Interview-Repo
 2. Install Dependencies
 Some challenges may come with dependencies (e.g., for Node.js or Python). If required, navigate to the problem folder and install the necessary packages:
